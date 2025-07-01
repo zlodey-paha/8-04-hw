@@ -24,7 +24,7 @@
 
 ### Решение 2. Memcached
 
-![systemctl memcached](https://github.com/zlodey-paha/8-04-hw/)
+![systemctl memcached](https://github.com/zlodey-paha/8-04-hw/blob/main/memcached.PNG)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### Решение 3. Удаление по TTL в Memcached
 
-![add key](https://github.com/zlodey-paha/8-04-hw/)
+![add key](https://github.com/zlodey-paha/8-04-hw/blob/main/addkey.PNG)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### Решение 4. Запись данных в Redis
 
-![redis](https://github.com/zlodey-paha/8-04-hw/)
+![redis](https://github.com/zlodey-paha/8-04-hw/blob/main/redis.PNG)
 
 ---
 
